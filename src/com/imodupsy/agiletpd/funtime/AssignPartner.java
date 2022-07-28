@@ -11,6 +11,11 @@ public class AssignPartner {
 
     public static void main(String[] args) {
         pick();
+        hello();
+    }
+
+    private static void hello() {
+        System.out.println("Hello world");
     }
 
     public static void pick() {
