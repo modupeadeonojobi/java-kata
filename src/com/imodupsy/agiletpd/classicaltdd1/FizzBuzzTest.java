@@ -26,9 +26,6 @@ class FizzBuzzTest {
         assertEquals("Buzz", fizzBuzz(10));
         assertEquals("FizzBuzz", fizzBuzz(15));
 
-        Hello hey = new Hello();
-        hey.call();
-
     }
 
     private String fizzBuzz(int i) {
