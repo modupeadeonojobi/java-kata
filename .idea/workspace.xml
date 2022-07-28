@@ -22,7 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="" />
+    <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/mob.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mob.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/funtime/AssignPartner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/funtime/AssignPartner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,7 +229,7 @@
       <workItem from="1658937033395" duration="13551000" />
       <workItem from="1658998374336" duration="1601000" />
       <workItem from="1658999998837" duration="284000" />
-      <workItem from="1659000317935" duration="280000" />
+      <workItem from="1659000317935" duration="1188000" />
     </task>
     <servers />
   </component>
