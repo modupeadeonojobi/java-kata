@@ -11,22 +11,17 @@ public class AssignPartner {
 
     public static void main(String[] args) {
         pick();
-        hello();
-    }
-
-    private static void hello() {
-        System.out.println("Hello world");
     }
 
     public static void pick() {
         List<String> nameList = new ArrayList<>();
-        nameList.add("Modupe");
+        nameList.add("iModupsy");
         nameList.add("Chijioke");
         nameList.add("David");
-        nameList.add("Tao");
-        nameList.add("Mary");
+        nameList.add("Taofiq");
+        nameList.add("Marynoir");
         nameList.add("Eze");
-        nameList.add("Ihe");
+        nameList.add("Chinedu");
 
         List<String[]> paired = new ArrayList<>();
 
