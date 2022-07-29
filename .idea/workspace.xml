@@ -23,8 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd1/FizzBuzzTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd1/FizzBuzzTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/funtime/AssignPartner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/funtime/AssignPartner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

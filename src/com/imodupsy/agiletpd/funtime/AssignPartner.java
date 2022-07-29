@@ -12,10 +12,7 @@ import java.util.List;
 public class AssignPartner {
 
     public static void main(String[] args) {
-        pick();
-    }
 
-    public static void pick() {
         List<String> nameList = new ArrayList<>();
         nameList.add("iModupsy");
         nameList.add("Chijioke");
@@ -24,9 +21,12 @@ public class AssignPartner {
         nameList.add("Marynoir");
         nameList.add("Eze");
         nameList.add("Chinedu");
+        pick(nameList);
+    }
 
-
+    public static void pick(List<String> nameList) {
         Collections.shuffle(nameList);
+
         for (int i = 0; i < nameList.size() - 1 ; i++) {
             if (i == 0 && nameList.size() % 2 != 0) {
                 String[] namePair = {nameList.get(0), nameList.get(1), nameList.get(2)};
