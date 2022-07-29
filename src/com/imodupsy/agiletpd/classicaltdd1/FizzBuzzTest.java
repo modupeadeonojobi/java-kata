@@ -43,4 +43,38 @@ class FizzBuzzTest {
     }
 
 
+    /**
+     * Refactor the FizzBuzz kata
+     */
+
+    @Test
+    public void testRefactoredFizzBuzz() {
+
+        assertEquals("1", fizBuz(1));
+        assertEquals("2", fizBuz(2));
+        assertEquals("Fizz", fizBuz(3));
+        assertEquals("Buzz", fizBuz(5));
+        assertEquals("Fizz", fizBuz(6));
+        assertEquals("FizzBuzz", fizBuz(15));
+    }
+
+    private String fizBuz(int i) {
+
+        String output = "";
+        if (i % 3 == 0) {
+            output += "Fizz";
+        }
+
+        if (i % 5 == 0) {
+            output += "Buzz";
+        }
+
+        if (i % 5 != 0 && i % 3 != 0) {
+            output = String.valueOf(i);
+        }
+
+        return output;
+
+
+    }
 }

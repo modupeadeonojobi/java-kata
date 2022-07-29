@@ -23,7 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/funtime/AssignPartner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/funtime/AssignPartner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd1/FizzBuzzTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd1/FizzBuzzTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd1/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd1/FizzBuzzTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,26 +114,13 @@
       <recent name="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AssignPartner">
+  <component name="RunManager" selected="JUnit.FizzBuzzTest.testRefactoredFizzBuzz">
     <configuration name="AssignPartner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.imodupsy.agiletpd.funtime.AssignPartner" />
       <module name="java-katas" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.imodupsy.agiletpd.funtime.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.imodupsy.agiletpd.Main" />
-      <module name="java-katas" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.imodupsy.agiletpd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,22 +141,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StatsCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTest.fiz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-katas" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.imodupsy.agiletpd.classicaltdd2.*" />
+          <option name="PATTERN" value="com.imodupsy.agiletpd.classicaltdd1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.imodupsy.agiletpd.classicaltdd2" />
-      <option name="MAIN_CLASS_NAME" value="com.imodupsy.agiletpd.classicaltdd2.StatsCalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.imodupsy.agiletpd.classicaltdd1" />
+      <option name="MAIN_CLASS_NAME" value="com.imodupsy.agiletpd.classicaltdd1.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="fiz" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StatsCalculatorTest.outputLengthOfArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTest.testRefactoredFizzBuzz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-katas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imodupsy.agiletpd.classicaltdd1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imodupsy.agiletpd.classicaltdd1" />
+      <option name="MAIN_CLASS_NAME" value="com.imodupsy.agiletpd.classicaltdd1.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testRefactoredFizzBuzz" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsCalculatorTest.outputAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-katas" />
       <extension name="coverage">
         <pattern>
@@ -177,7 +183,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.imodupsy.agiletpd.classicaltdd2" />
       <option name="MAIN_CLASS_NAME" value="com.imodupsy.agiletpd.classicaltdd2.StatsCalculatorTest" />
-      <option name="METHOD_NAME" value="outputLengthOfArray" />
+      <option name="METHOD_NAME" value="outputAverage" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -185,18 +191,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.AssignPartner" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.com.imodupsy.agiletpd.funtime.AssignPartner" />
-      <item itemvalue="JUnit.StatsCalculatorTest.outputLengthOfArray" />
-      <item itemvalue="JUnit.StatsCalculatorTest" />
+      <item itemvalue="JUnit.FizzBuzzTest.fiz" />
+      <item itemvalue="JUnit.FizzBuzzTest.testRefactoredFizzBuzz" />
+      <item itemvalue="JUnit.StatsCalculatorTest.outputAverage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzTest.testRefactoredFizzBuzz" />
+        <item itemvalue="JUnit.StatsCalculatorTest.outputAverage" />
+        <item itemvalue="JUnit.FizzBuzzTest.fiz" />
         <item itemvalue="Application.AssignPartner" />
         <item itemvalue="Application.com.imodupsy.agiletpd.funtime.AssignPartner" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.StatsCalculatorTest" />
-        <item itemvalue="JUnit.StatsCalculatorTest.outputLengthOfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +241,7 @@
       <workItem from="1658998374336" duration="1601000" />
       <workItem from="1658999998837" duration="284000" />
       <workItem from="1659000317935" duration="4022000" />
+      <workItem from="1659121014073" duration="2842000" />
     </task>
     <servers />
   </component>
