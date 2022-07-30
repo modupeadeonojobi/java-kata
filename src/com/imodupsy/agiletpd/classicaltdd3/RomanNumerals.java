@@ -32,8 +32,11 @@ public class RomanNumerals {
         if (number == 9 || number == 10) {
             romanNumeral = one.repeat(10 - number) + "x";
         }
-        if (number > 10) {
+        if (number > 10 && number < 40) {
             romanNumeral = convertToRomanNumerals(10) + convertToRomanNumerals(number - 10);
+        }
+        if (number == 40) {
+            romanNumeral = convertToRomanNumerals(10) + "L";
         }
 
         return romanNumeral;

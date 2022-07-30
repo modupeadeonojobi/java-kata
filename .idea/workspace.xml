@@ -24,6 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumerals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumerals.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumeralsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumeralsTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/RomanNumerals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/RomanNumerals.java" afterDir="false" />
@@ -135,21 +136,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanNumeralsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-katas" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.imodupsy.agiletpd.classicaltdd3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.imodupsy.agiletpd.classicaltdd3" />
-      <option name="MAIN_CLASS_NAME" value="com.imodupsy.agiletpd.classicaltdd3.RomanNumeralsTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RomanNumeralsTest.forty_isEqualToRomanNumeralxL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-katas" />
       <extension name="coverage">
@@ -198,20 +184,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RomanNumeralsTest.thirtyNine_isEqualToRomanNumeralxiv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-katas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imodupsy.agiletpd.classicaltdd3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imodupsy.agiletpd.classicaltdd3" />
+      <option name="MAIN_CLASS_NAME" value="com.imodupsy.agiletpd.classicaltdd3.RomanNumeralsTest" />
+      <option name="METHOD_NAME" value="thirtyNine_isEqualToRomanNumeralxiv" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.RomanNumeralsTest.thirtyNine_isEqualToRomanNumeralxiv" />
       <item itemvalue="JUnit.RomanNumeralsTest.forty_isEqualToRomanNumeralxL" />
       <item itemvalue="JUnit.RomanNumeralsTest.thirtyFive_isEqualToRomanNumeralxxxv" />
       <item itemvalue="JUnit.RomanNumeralsTest.fourteen_isEqualToRomanNumeralxiv" />
-      <item itemvalue="JUnit.RomanNumeralsTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RomanNumeralsTest.forty_isEqualToRomanNumeralxL" />
-        <item itemvalue="JUnit.RomanNumeralsTest.thirtyFive_isEqualToRomanNumeralxxxv" />
+        <item itemvalue="JUnit.RomanNumeralsTest.thirtyNine_isEqualToRomanNumeralxiv" />
         <item itemvalue="JUnit.RomanNumeralsTest.fourteen_isEqualToRomanNumeralxiv" />
+        <item itemvalue="JUnit.RomanNumeralsTest.thirtyFive_isEqualToRomanNumeralxxxv" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.RomanNumeralsTest" />
       </list>
     </recent_temporary>
   </component>
