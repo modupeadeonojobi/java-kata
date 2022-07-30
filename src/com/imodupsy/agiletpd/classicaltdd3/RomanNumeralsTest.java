@@ -71,4 +71,11 @@ class RomanNumeralsTest {
         assertEquals("xiv", value);
     }
 
+    @Test
+    public void forty_isEqualToRomanNumeralxL () {
+        RomanNumerals romanNumerals = new RomanNumerals();
+        String value = romanNumerals.convertToRomanNumerals(40);
+        assertEquals("xL", value);
+    }
+
 }
