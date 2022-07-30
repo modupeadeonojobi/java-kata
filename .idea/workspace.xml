@@ -126,7 +126,7 @@
       <recent name="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.RomanNumeralsTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.imodupsy.agiletpd.Main" />
       <module name="java-katas" />
@@ -210,8 +210,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.RomanNumeralsTest" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.FizzBuzzTest" />
         <item itemvalue="JUnit.StatsCalculatorTest" />
         <item itemvalue="JUnit.RomanNumeralsTest.oneShouldOutputi" />
