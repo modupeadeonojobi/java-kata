@@ -15,21 +15,24 @@ public class RomanNumerals {
      * 999.
      */
 
-    public String convertToRomanNumerals(int i) {
-        if (i <= 3) {
-            return "i".repeat(i);
+    public String convertToRomanNumerals(int number) {
+        String romanNumeral = "";
+        String one = "i";
+
+        if (number <= 3) {
+            romanNumeral = one.repeat(number);
         }
-        if (i == 4 || i == 5) {
-            return "i".repeat(5 - i) + "v";
+        if (number == 4 || number == 5) {
+            romanNumeral = one.repeat(5 - number) + "v";
         }
-        if (i > 5 && i < 9) {
-            String val = convertToRomanNumerals(5) + convertToRomanNumerals(i - 5);
-            return val;
+        if (number > 5 && number < 9) {
+            romanNumeral = convertToRomanNumerals(5) + convertToRomanNumerals(number - 5);
+
         }
-        if (i == 9 || i == 10) {
-            return "i".repeat(10 - i) + "x";
+        if (number == 9 || number == 10) {
+            romanNumeral = one.repeat(10 - number) + "x";
         }
 
-        return "";
+        return romanNumeral;
     }
 }
