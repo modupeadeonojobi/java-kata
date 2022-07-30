@@ -64,4 +64,11 @@ class RomanNumeralsTest {
         assertEquals("x", tenValue);
     }
 
+    @Test
+    public void eleven_isEqualToRomanNumeralxi () {
+        RomanNumerals romanNumerals = new RomanNumerals();
+        String elevenValue = romanNumerals.convertToRomanNumerals(11);
+        assertEquals("xi", elevenValue);
+    }
+
 }

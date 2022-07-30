@@ -23,8 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/RomanNumerals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/RomanNumerals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/RomanNumeralsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/RomanNumeralsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +113,7 @@
       <recent name="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RomanNumeralsTest">
+  <component name="RunManager" selected="JUnit.RomanNumeralsTest.eleven_isEqualToRomanNumeralxi">
     <configuration name="RomanNumeralsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-katas" />
       <extension name="coverage">
@@ -130,7 +129,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanNumeralsTest.eight_isEqualToRomanNumeralviii" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanNumeralsTest.eleven_isEqualToRomanNumeralxi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-katas" />
       <extension name="coverage">
         <pattern>
@@ -140,7 +139,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.imodupsy.agiletpd.classicaltdd3" />
       <option name="MAIN_CLASS_NAME" value="com.imodupsy.agiletpd.classicaltdd3.RomanNumeralsTest" />
-      <option name="METHOD_NAME" value="eight_isEqualToRomanNumeralviii" />
+      <option name="METHOD_NAME" value="eleven_isEqualToRomanNumeralxi" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -195,19 +194,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.RomanNumeralsTest.eleven_isEqualToRomanNumeralxi" />
       <item itemvalue="JUnit.RomanNumeralsTest.oneShouldOutputi" />
       <item itemvalue="JUnit.RomanNumeralsTest.two_isEqualToRomanNumeralii" />
       <item itemvalue="JUnit.RomanNumeralsTest" />
       <item itemvalue="JUnit.RomanNumeralsTest.nine_isEqualToRomanNumeralix" />
-      <item itemvalue="JUnit.RomanNumeralsTest.eight_isEqualToRomanNumeralviii" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RomanNumeralsTest.eleven_isEqualToRomanNumeralxi" />
         <item itemvalue="JUnit.RomanNumeralsTest" />
         <item itemvalue="JUnit.RomanNumeralsTest.oneShouldOutputi" />
         <item itemvalue="JUnit.RomanNumeralsTest.two_isEqualToRomanNumeralii" />
         <item itemvalue="JUnit.RomanNumeralsTest.nine_isEqualToRomanNumeralix" />
-        <item itemvalue="JUnit.RomanNumeralsTest.eight_isEqualToRomanNumeralviii" />
       </list>
     </recent_temporary>
   </component>
