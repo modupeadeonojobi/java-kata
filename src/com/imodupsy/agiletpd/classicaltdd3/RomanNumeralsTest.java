@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class RomanNumeralsTest {
     @Test
-    public void oneShouldOutputi () {
+    public void oneShouldOutputi() {
         RomanNumerals romanNumerals = new RomanNumerals();
         String rmVal = romanNumerals.convertToRomanNumerals(1);
 
@@ -14,7 +14,7 @@ class RomanNumeralsTest {
     }
 
     @Test
-    public void two_isEqualToRomanNumeralii () {
+    public void two_isEqualToRomanNumeralii() {
         RomanNumerals romanNumerals = new RomanNumerals();
         String value = romanNumerals.convertToRomanNumerals(2);
         assertEquals("ii", value);
@@ -44,24 +44,31 @@ class RomanNumeralsTest {
     }
 
     @Test
-    public void eight_isEqualToRomanNumeralviii () {
+    public void eight_isEqualToRomanNumeralviii() {
         RomanNumerals romanNumerals = new RomanNumerals();
         String value = romanNumerals.convertToRomanNumerals(8);
         assertEquals("viii", value);
     }
 
     @Test
-    public void nine_isEqualToRomanNumeralix () {
+    public void nine_isEqualToRomanNumeralix() {
         RomanNumerals romanNumerals = new RomanNumerals();
         String nineValue = romanNumerals.convertToRomanNumerals(9);
         assertEquals("ix", nineValue);
     }
 
     @Test
-    public void ten_isEqualToRomanNumeralx () {
+    public void ten_isEqualToRomanNumeralx() {
         RomanNumerals romanNumerals = new RomanNumerals();
         String tenValue = romanNumerals.convertToRomanNumerals(10);
         assertEquals("x", tenValue);
+    }
+
+    @Test
+    public void fourteen_isEqualToRomanNumeralxiv() {
+        RomanNumerals romanNumerals = new RomanNumerals();
+        String value = romanNumerals.convertToRomanNumerals(14);
+        assertEquals("xiv", value);
     }
 
 }
