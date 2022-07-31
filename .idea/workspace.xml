@@ -25,6 +25,10 @@
     <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/PrimeFactors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/PrimeFactors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/PrimeFactorsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/PrimeFactorsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumerals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumerals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumeralsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumeralsTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/PrimeFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/PrimeFactors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/PrimeFactorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/PrimeFactorsTest.java" afterDir="false" />
     </list>
@@ -56,7 +60,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="mob-session" />
-                    <option name="lastUsedInstant" value="1659302211" />
+                    <option name="lastUsedInstant" value="1659304484" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -120,7 +124,7 @@
       <recent name="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PrimeFactorsTest">
+  <component name="RunManager" selected="JUnit.PrimeFactorsTest.three_isEqualToAListOfPrimeNumbersOfThree">
     <configuration name="PrimeFactorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-katas" />
       <extension name="coverage">
@@ -152,7 +156,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanNumeralsTest.forty_isEqualToRomanNumeralxL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimeFactorsTest.three_isEqualToAListOfPrimeNumbersOfThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-katas" />
       <extension name="coverage">
         <pattern>
@@ -161,14 +165,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.imodupsy.agiletpd.classicaltdd3" />
-      <option name="MAIN_CLASS_NAME" value="com.imodupsy.agiletpd.classicaltdd3.RomanNumeralsTest" />
-      <option name="METHOD_NAME" value="forty_isEqualToRomanNumeralxL" />
+      <option name="MAIN_CLASS_NAME" value="com.imodupsy.agiletpd.classicaltdd3.PrimeFactorsTest" />
+      <option name="METHOD_NAME" value="three_isEqualToAListOfPrimeNumbersOfThree" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanNumeralsTest.fourteen_isEqualToRomanNumeralxiv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimeFactorsTest.two_isEqualToAnArrayOfTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-katas" />
       <extension name="coverage">
         <pattern>
@@ -177,14 +181,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.imodupsy.agiletpd.classicaltdd3" />
-      <option name="MAIN_CLASS_NAME" value="com.imodupsy.agiletpd.classicaltdd3.RomanNumeralsTest" />
-      <option name="METHOD_NAME" value="fourteen_isEqualToRomanNumeralxiv" />
+      <option name="MAIN_CLASS_NAME" value="com.imodupsy.agiletpd.classicaltdd3.PrimeFactorsTest" />
+      <option name="METHOD_NAME" value="two_isEqualToAnArrayOfTwo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanNumeralsTest.thirtyNine_isEqualToRomanNumeralxiv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanNumeralsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-katas" />
       <extension name="coverage">
         <pattern>
@@ -194,26 +198,25 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.imodupsy.agiletpd.classicaltdd3" />
       <option name="MAIN_CLASS_NAME" value="com.imodupsy.agiletpd.classicaltdd3.RomanNumeralsTest" />
-      <option name="METHOD_NAME" value="thirtyNine_isEqualToRomanNumeralxiv" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.PrimeFactorsTest.three_isEqualToAListOfPrimeNumbersOfThree" />
+      <item itemvalue="JUnit.PrimeFactorsTest.two_isEqualToAnArrayOfTwo" />
+      <item itemvalue="JUnit.RomanNumeralsTest" />
       <item itemvalue="JUnit.PrimeFactorsTest" />
       <item itemvalue="JUnit.PrimeFactorsTest.one_isEqualToAnEmptyArray" />
-      <item itemvalue="JUnit.RomanNumeralsTest.thirtyNine_isEqualToRomanNumeralxiv" />
-      <item itemvalue="JUnit.RomanNumeralsTest.forty_isEqualToRomanNumeralxL" />
-      <item itemvalue="JUnit.RomanNumeralsTest.fourteen_isEqualToRomanNumeralxiv" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PrimeFactorsTest" />
+        <item itemvalue="JUnit.PrimeFactorsTest.three_isEqualToAListOfPrimeNumbersOfThree" />
+        <item itemvalue="JUnit.PrimeFactorsTest.two_isEqualToAnArrayOfTwo" />
         <item itemvalue="JUnit.PrimeFactorsTest.one_isEqualToAnEmptyArray" />
-        <item itemvalue="JUnit.RomanNumeralsTest.forty_isEqualToRomanNumeralxL" />
-        <item itemvalue="JUnit.RomanNumeralsTest.thirtyNine_isEqualToRomanNumeralxiv" />
-        <item itemvalue="JUnit.RomanNumeralsTest.fourteen_isEqualToRomanNumeralxiv" />
+        <item itemvalue="JUnit.PrimeFactorsTest" />
+        <item itemvalue="JUnit.RomanNumeralsTest" />
       </list>
     </recent_temporary>
   </component>

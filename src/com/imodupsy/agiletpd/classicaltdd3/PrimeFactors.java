@@ -1,5 +1,8 @@
 package com.imodupsy.agiletpd.classicaltdd3;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @author iModupsy
  * @created 30/07/2022
@@ -14,7 +17,17 @@ public class PrimeFactors {
      * 2, 3, 4, 6, 9, 12, 15
      */
 
-    public int[] of(int number) {
-        return new int[]{};
+    public List<Integer> of(int number) {
+        List<Integer> primeNumber = new ArrayList<>();
+
+        if (number <= 1) {
+            return primeNumber;
+        }
+        if (number % 2 == 0) {
+           primeNumber.add(2);
+        }
+        return primeNumber;
+
+
     }
 }
