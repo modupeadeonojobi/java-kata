@@ -23,11 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumerals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumerals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumeralsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumeralsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/RomanNumerals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/RomanNumerals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/RomanNumeralsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/RomanNumeralsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1659220294" />
+                    <option name="lastUsedInstant" value="1659304331" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="mob-session" />
