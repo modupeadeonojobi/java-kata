@@ -23,14 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/PrimeFactors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/PrimeFactors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/PrimeFactorsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/PrimeFactorsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumerals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumerals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumeralsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-katas/com/imodupsy/agiletpd/classicaltdd3/RomanNumeralsTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/PrimeFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/PrimeFactors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/PrimeFactorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imodupsy/agiletpd/classicaltdd3/PrimeFactorsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +117,7 @@
       <recent name="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PrimeFactorsTest.three_isEqualToAListOfPrimeNumbersOfThree">
+  <component name="RunManager" selected="JUnit.PrimeFactorsTest">
     <configuration name="PrimeFactorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-katas" />
       <extension name="coverage">
@@ -212,10 +205,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PrimeFactorsTest" />
         <item itemvalue="JUnit.PrimeFactorsTest.three_isEqualToAListOfPrimeNumbersOfThree" />
         <item itemvalue="JUnit.PrimeFactorsTest.two_isEqualToAnArrayOfTwo" />
         <item itemvalue="JUnit.PrimeFactorsTest.one_isEqualToAnEmptyArray" />
-        <item itemvalue="JUnit.PrimeFactorsTest" />
         <item itemvalue="JUnit.RomanNumeralsTest" />
       </list>
     </recent_temporary>

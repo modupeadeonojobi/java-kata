@@ -26,6 +26,9 @@ public class PrimeFactors {
         if (number % 2 == 0) {
            primeNumber.add(2);
         }
+        if (number % 3 == 0) {
+            primeNumber.add(3);
+        }
         return primeNumber;
 
 
