@@ -2,6 +2,7 @@ package com.imodupsy.agiletpd.classicaltdd3;
 
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
@@ -14,6 +15,13 @@ public class PrimeFactorsTest {
     public void one_isEqualToAnEmptyArray() {
         PrimeFactors primeFactors = new PrimeFactors();
         int [] primeNumbers = primeFactors.of(1);
-        assertEquals(1, primeNumbers);
+        assertArrayEquals(new int[]{}, primeNumbers);
+    }
+
+    @Test
+    public void two_isEqualToAnArrayOfTwo() {
+        PrimeFactors primeFactors = new PrimeFactors();
+        int [] primeNumbers = primeFactors.of(2);
+        assertArrayEquals(new int[]{2}, primeNumbers);
     }
 }
